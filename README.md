@@ -45,13 +45,3 @@ I focus on **clean architecture, scalability, and practical problem-solving**.
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
----
-
-### 🔝 Top Contributions  
-![](https://github-contributor-stats.vercel.app/api?username=saptarshidey3000&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-![](https://visitcount.itsvg.in/api?id=saptarshidey3000&icon=0&color=3)
