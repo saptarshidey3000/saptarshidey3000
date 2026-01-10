@@ -1,6 +1,6 @@
 # 💫 About Me  
 Full Stack Developer with strong backend foundations.  
-Currently learning **AI** and exploring how to integrate intelligence into real-world web products.  
+Currently learning **AI** and exploring how to integrate intelligence into real-world web products and have worked with 16 clients 
 I focus on **clean architecture, scalability, and practical problem-solving**.
 
 ---
