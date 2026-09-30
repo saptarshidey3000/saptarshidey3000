@@ -1,7 +1,11 @@
 # 💫 About Me  
 Full Stack Developer with strong backend foundations.  
-Currently learning **AI** and exploring how to integrate intelligence into real-world web products and have worked with 16 clients 
+Currently learning **AI** and exploring how to integrate intelligence into real-world web products and have worked with 25 clients 
 I focus on **clean architecture, scalability, and practical problem-solving**.
+
+### 🚀 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-saptarshidey700.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saptarshidey700.vercel.app/)
 
 ---
 
