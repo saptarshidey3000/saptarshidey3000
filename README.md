@@ -2,7 +2,7 @@
 Full Stack Developer with strong backend foundations.  
 Currently learning **AI** and exploring how to integrate intelligence into real-world web products and have worked with 16 clients 
 I focus on **clean architecture, scalability, and practical problem-solving**.
-[![Portfolio]([![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)])]
+[![Portfolio]([])]
 ---
 
 ## 🌐 Socials  
